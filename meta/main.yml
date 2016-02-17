@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  author: Vincent Flesouras
   author: Roderik van der Veer
   description: Ansible role to install and configure Sublime Text 3 on OSX. This role is part of the Superlumic project that aims to simplify repeat computer setups on OSX, 10.10 and up.
   license: MIT
@@ -11,4 +12,4 @@ galaxy_info:
   categories:
     - system
 dependencies:
-  - slac.superlumic-homebrew
+  - slac.grail-homebrew
